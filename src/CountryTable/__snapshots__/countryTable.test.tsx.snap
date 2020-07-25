@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Country Table To check Table Component is Rendered Correctly 1`] = `ShallowWrapper {}`;

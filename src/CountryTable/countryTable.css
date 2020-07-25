@@ -1,0 +1,56 @@
+
+body{
+        margin: 0;
+        background-image: linear-gradient(to right, rgba(236, 168, 168, 0), rgb(59, 132, 243));
+}
+.header{
+        background-color:#398B93;
+        color:white;
+        font-size: 1.5em;
+        padding: 1rem;
+        text-align: center;
+        text-transform: uppercase;
+     }
+     .country-table{
+        border: 1px solid #398B93;
+        border-radius: 10px;
+        box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+        max-width: 90%;
+        margin: 1em auto;
+        overflow: hidden;
+        width: 800px;
+     }
+     .table{
+             width: 100%;
+     }
+     .td ,.btn,.th{
+             color: #398B93;
+             padding: 10px;
+     }
+     .btn:hover{
+             cursor: pointer;
+     }
+     .tdh:hover{
+             cursor: pointer;
+     }
+     .td{
+             text-align: center;
+             vertical-align: middle;
+     }
+     .td,.th:first-child{
+        font-size: 0.95em;
+        line-height: 1.4;
+        text-align: left;
+     }
+     .th{
+                background-color: rgb(143, 143, 224);
+                text-align: left;
+                font-weight: 300;
+             
+     }
+     .tr:nth-child(2n){
+             background-color: white;
+     }
+     .tr:nth-child(2n+1){
+             background-color:#e4e0e0;
+     }

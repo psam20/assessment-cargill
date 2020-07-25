@@ -1,0 +1,13 @@
+.filter-div{
+    margin: auto;
+    max-width:800px;
+    padding: 60px;
+}
+
+.input{
+    line-height: 2;
+    font-size: 18px;
+    height: auto;
+    
+    padding-left: 20px;
+}
